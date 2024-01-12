@@ -1,0 +1,2 @@
+Apple 5 120
+Mango 4 10
